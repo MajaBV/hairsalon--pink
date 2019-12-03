@@ -1,0 +1,194 @@
+body {
+    background-color: white;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar.navbar-expand-lg.navbar-light.bg-white a.navbar-brand {
+    font-size: 25px;
+    color: #b676b1;
+    background-color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-size: 20px;
+    color: #808080;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #b676b1;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 0;
+    margin: 70px 0;
+    color: #5a5858;
+    position: relative;
+}
+
+.col-sm-4 {
+    position: relative;
+}
+
+div.card-body {
+    border: 0.5px solid #edddeb;
+    text-align: center;
+}
+
+h5.card-title {
+    margin: 0;
+    padding: 10px 0;
+    color: #808080;
+}
+
+h5.card-title:hover {
+    color: #b676b1;
+}
+
+div#ourservice.container {
+    padding: 0;
+}
+
+.form-control {
+    border: 1px solid #edddeb;
+    border-radius: 1rem;
+    /*box-shadow: 0 0 2px 1px #edddeb;*/
+}
+
+.form-control:focus {
+     border-color: #edddeb;
+     box-shadow: 0 0 0 0.2rem #edddeb;
+}
+
+label p {
+    color: #808080;
+}
+
+.btn.btn-info {
+    background-color: #C0C0C0;
+    border: 0;
+    padding: 10px 15px;
+    border-radius: 1rem;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.btn.btn-info:focus {
+    box-shadow: 0 0 0 0.1rem #808080;
+}
+
+.col-sm-6.schedule {
+    text-align: center;
+    color: #808080;
+}
+
+.table>tbody>tr>td,
+.table>tbody>tr>th,
+.table>thead>tr>td,
+.table>thead>tr>th {
+    border: 0;
+}
+
+th {
+    font-weight: 400;
+}
+
+p.closed {
+    font-size: 12px;
+}
+
+div#appointment.container {
+    padding: 0;
+}
+
+div#faq.container {
+    padding: 0;
+}
+
+#faq {
+    position: relative;
+}
+
+#faq h1 {
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+
+.card-header {
+    background-color: #E1BCCF;
+    border: 1px solid #edddeb;
+}
+
+div.card {
+    border: 0;
+}
+
+div.card-body.card-body-accordion{
+    border: 0;
+}
+
+.btn.btn-link {
+    color: #5a5858;
+    text-decoration: none;
+    white-space:normal;
+    padding: 10px 20px;
+}
+
+
+/* ============ footer ============ */
+
+footer.container-fluid {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding: 0;
+    background-color: white;
+    color: #5a5858;
+    width: 100%;
+}
+
+div.row {
+    display: flex;
+    margin: 0;
+}
+
+.footer-logo {
+    width: 40%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.col-sm-4.contact {
+    padding-bottom: 20px;;
+}
+
+.col-sm-4.contact p {
+    margin: 0;
+    padding: 5px 0;
+}
+
+.col-sm-4.navigation li {
+    list-style-type: none;
+}
+
+.col-sm-4.navigation li a {
+    color: #5a5858;
+    list-style-type: none;
+    font-size: 12px;
+    padding: 5px 0;
+}
+
+h4 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 12px;
+}
+
+
+
+
